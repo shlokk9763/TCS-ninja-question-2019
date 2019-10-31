@@ -30,6 +30,10 @@ for(k=1;k<=(r-1);k++){
                 new = i;
                 flag=0;
              }
+                      if(i<=p){
+                printf(" %d ",i);
+                new = i;
+                flag=0;
             }
     }
 
